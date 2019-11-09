@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  // text-align: center;
+  h2{
+    &:hover{
+      color:red;
+    }
+  }
+  .todo-list{
+    background-color: rgb(158, 158, 158);
+  }
+
+}
